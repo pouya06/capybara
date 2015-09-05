@@ -15,3 +15,5 @@
 /log/*
 !/log/.keep
 /tmp
+
+/Users/karimipouya/Documents/capybara/capybara/.idea/workspace.xml
